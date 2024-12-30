@@ -13,9 +13,10 @@ ChemIQ is a next-generation web application designed to make organic chemistry s
 
 
 🛠️ Tech Stack
-Frontend	Backend	Database	Hosting
-React.js ⚛️	Node.js 🌐	MongoDB 🍃	Express 🚀
-
+Front-end:React.js
+Backend:Node.js
+Host:Express.js
+Dtabase:MongoDB
 
 
 🎯 How It Works
