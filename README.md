@@ -9,9 +9,15 @@ ChemIQ is a next-generation web application designed to make organic chemistry s
 ⚡ AI-Driven Visualization: Generate reaction pathways with precision.
 📱 Responsive Design: Perfect on all devices—desktop, tablet, or mobile.
 💡 Intuitive Navigation: Smooth animations for seamless transitions.
+
+
+
 🛠️ Tech Stack
 Frontend	Backend	Database	Hosting
 React.js ⚛️	Node.js 🌐	MongoDB 🍃	Express 🚀
+
+
+
 🎯 How It Works
 🖋️ Draw Chemical Compounds: Use our intuitive drawing tool to create your starting and ending compounds.
 ✨ Generate Transformations: Watch as AI visualizes the reaction pathway.
